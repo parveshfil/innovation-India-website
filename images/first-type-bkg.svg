@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>first-type-bkg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="first-type-bkg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-20-Copy-22" transform="translate(1671.000000, 153.500000) rotate(-270.000000) translate(-1671.000000, -153.500000) translate(1518.500000, -92.500000)" fill-rule="nonzero">
+            <g id="Group-18" transform="translate(0.500000, 2.500000)" stroke="#E2E2E2" stroke-linecap="square">
+                <path d="M19.8825623,121.981319 L209.035587,239.663736" id="Line-2"></path>
+                <path d="M11.2846975,229.453846 L209.035587,239.663736" id="Line-3"></path>
+                <path d="M72.544484,216.01978 L209.035587,239.663736" id="Line-5"></path>
+                <path d="M11.2846975,229.453846 L120.907473,356.271429" id="Line-7"></path>
+                <path d="M0.537366548,488.462637 L120.907473,356.271429" id="Line-8"></path>
+                <path d="M19.8825623,121.981319 L181.092527,0.537362637" id="Line-9"></path>
+                <path d="M181.092527,0.537362637 L209.035587,239.663736" id="Line-10"></path>
+                <path d="M0.537366548,61.2593407 L181.092527,0.537362637" id="Line-11"></path>
+                <path d="M19.8825623,121.981319 L301.462633,49.4223165" id="Line-12"></path>
+                <path d="M0.537366548,308.983516 L181.092527,380.99011" id="Line-13"></path>
+                <path d="M181.092527,380.99011 L252.024911,318.656044" id="Line-14"></path>
+                <path d="M19.8825623,173.568132 L72.544484,216.01978" id="Line-4"></path>
+                <path d="M72.544484,216.01978 L11.2846975,229.453846" id="Line-6"></path>
+            </g>
+            <g id="Group-19" transform="translate(11.000000, 0.000000)" fill="#D8D8D8">
+                <ellipse id="Oval" cx="290.781022" cy="51.5608309" rx="3.2189781" ry="3.22255193"></ellipse>
+                <ellipse id="Oval-Copy" cx="169.532847" cy="3.22255193" rx="3.2189781" ry="3.22255193"></ellipse>
+                <ellipse id="Oval-Copy-2" cx="199.576642" cy="241.691395" rx="3.2189781" ry="3.22255193"></ellipse>
+                <ellipse id="Oval-Copy-3" cx="241.423358" cy="321.181009" rx="3.2189781" ry="3.22255193"></ellipse>
+                <ellipse id="Oval-Copy-4" cx="110.518248" cy="358.777448" rx="3.2189781" ry="3.22255193"></ellipse>
+                <ellipse id="Oval-Copy-5" cx="3.2189781" cy="232.023739" rx="3.2189781" ry="3.22255193"></ellipse>
+                <ellipse id="Oval-Copy-6" cx="10.729927" cy="123.531157" rx="3.2189781" ry="3.22255193"></ellipse>
+            </g>
+        </g>
+        <g id="Group-20-Copy-9" transform="translate(231.500000, 937.500000) scale(1, -1) rotate(-270.000000) translate(-231.500000, -937.500000) translate(90.000000, 709.000000)" fill-rule="nonzero">
+            <g id="Group-18" transform="translate(0.000000, 2.000000)" stroke="#E2E2E2" stroke-linecap="square">
+                <path d="M18.5,113.5 L194.5,223" id="Line-2"></path>
+                <path d="M10.5,213.5 L194.5,223" id="Line-3"></path>
+                <path d="M67.5,201 L194.5,223" id="Line-5"></path>
+                <path d="M10.5,213.5 L112.5,331.5" id="Line-7"></path>
+                <path d="M0.5,454.5 L112.5,331.5" id="Line-8"></path>
+                <path d="M18.5,113.5 L168.5,0.5" id="Line-9"></path>
+                <path d="M168.5,0.5 L194.5,223" id="Line-10"></path>
+                <path d="M0.5,57 L168.5,0.5" id="Line-11"></path>
+                <path d="M18.5,113.5 L280.5,45.986" id="Line-12"></path>
+                <path d="M0.5,287.5 L168.5,354.5" id="Line-13"></path>
+                <path d="M168.5,354.5 L234.5,296.5" id="Line-14"></path>
+                <path d="M18.5,161.5 L67.5,201" id="Line-4"></path>
+                <path d="M67.5,201 L10.5,213.5" id="Line-6"></path>
+            </g>
+            <g id="Group-19" transform="translate(9.000000, 0.000000)" fill="#D8D8D8">
+                <circle id="Oval" cx="271" cy="48" r="3"></circle>
+                <circle id="Oval-Copy" cx="158" cy="3" r="3"></circle>
+                <circle id="Oval-Copy-2" cx="186" cy="225" r="3"></circle>
+                <circle id="Oval-Copy-3" cx="225" cy="299" r="3"></circle>
+                <circle id="Oval-Copy-4" cx="103" cy="334" r="3"></circle>
+                <circle id="Oval-Copy-5" cx="3" cy="216" r="3"></circle>
+                <circle id="Oval-Copy-6" cx="10" cy="115" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
